@@ -1,0 +1,64 @@
+{
+    "experiencialaboral": {
+        "primeraexperiencia": {
+            "puesto": "Recepcionista de hotel",
+            "empresa": "Hotel NH Ourense",
+            "ubicacion": "Ourense, Galicia",
+            "periodo": "3 meses - 2019",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "ankara messi",
+                "segunda": "ankara messi",
+                "tercera": "ankara messi"
+            }
+        },
+        "segundaexperiencia": {
+            "puesto": "Coordinador",
+            "empresa": "IndieCork 2019",
+            "ubicacion": "Cork City, Irlanda",
+            "periodo": "3 meses - 2019",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "ankara messi",
+                "segunda": "ankara messi",
+                "tercera": "ankara messi"
+            }
+        },
+        "terceraexperiencia": {
+            "puesto": "Operario de almcacén",
+            "empresa": "DIA S.A.",
+            "ubicacion": "Santiago de Compostela, Galicia",
+            "periodo": "6 meses - 2019",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "Ankara messi",
+                "segunda": "Ankara messi",
+                "tercera": "Ankara messi"
+            }
+        },
+        "cuartaexperiencia": {
+            "puesto": "Asocidado de marketing",
+            "empresas": "United States Esports Association",
+            "ubicacion": "España(Remoto)",
+            "periodo": "6 meses - 2020-2021",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "Ankara messi",
+                "segunda": "Ankara messi",
+                "tercera": "Ankara messi"
+            }
+        },
+        "quintaexperiencia":{
+            "puesto": "Gestor",
+            "empresas": "Casa Videira",
+            "ubicacion": "Bueu, Galicia",
+            "periodo": "3 meses - 2021",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "Ankara messi",
+                "segunda": "Ankara messi",
+                "tercera": "Ankara messi"
+            }
+        }
+    }
+}

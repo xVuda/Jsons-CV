@@ -1,0 +1,76 @@
+{
+    "formacion": {
+        "primeraformacion": {
+            "nivelformativo": "Bachillerato en Humanidades y Ciencias Sociales",
+            "institucion": "Xelmirez I",
+            "ubicacion": "Santiago de Compostela, Galicia",
+            "periodo": "2012 - 2014",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "ankara messi",
+                "segunda": "ankara messi",
+                "tercera": "ankara messi"
+            }
+        },
+        "segundaformacion": {
+            "nivelformativo": "Grado Superior en Comercio y Marketing",
+            "institucion": "E.F.A. O Piñeiral",
+            "ubicacion": "Arzúa, Galicia",
+            "periodo": "2014 - 2015",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "ankara messi",
+                "segunda": "ankara messi",
+                "tercera": "ankara messi"
+            }
+        },
+        "terceraformacion": {
+            "nivelformativo": "Grado en Turismo",
+            "institucion": "Universidad de Vigo",
+            "ubicacion": "Ourense, Galicia",
+            "periodo": "2015 - 2019",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "ankara messi",
+                "segunda": "ankara messi",
+                "tercera": "ankara messi"
+            }
+        },
+        "cuartaformacion": {
+            "nivelformativo": "Máster en Gestión de Esports",
+            "institucion": "IEBS Bussines School",
+            "ubicacion": "España (Remoto)",
+            "periodo": "2020 - 2022",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "ankara messi",
+                "segunda": "ankara messi",
+                "tercera": "ankara messi"
+            }
+        },
+        "quintaformacion": {
+            "nivelformativo": "Certificado Profesional Nivel 3 de Programación Web",
+            "institucion": "Concello de Santiago",
+            "ubicacion": "Concello de Santiag",
+            "periodo": "2021 - 2022",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "ankara messi",
+                "segunda": "ankara messi",
+                "tercera": "ankara messi"
+            }
+        },
+        "sextaformacion": {
+            "nivelformativo": "Certificado Profesional Nivel 3 de Producción Multimedia",
+            "institucion": "Concello de Santiago",
+            "ubicacion": "Concello de Santiag",
+            "periodo": "2021 - 2022",
+            "detalles": "Estuv meh. Hice bah. Mi contrato era XD",
+            "habilidadesclave": {
+                "primera": "ankara messi",
+                "segunda": "ankara messi",
+                "tercera": "ankara messi"
+            }
+        }
+    }
+}

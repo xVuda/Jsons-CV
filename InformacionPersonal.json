@@ -1,0 +1,18 @@
+{
+    "informacionpersonal": {
+        "nombre": "Manuel",
+        "apellidos": "González Cao",
+        "contacto": {
+            "telefono": "+34 650 044 260",
+            "email": "manugoncao@gmail.com"
+        },
+        "ubicacion": "Santiago de Compostela",
+        "puestodeseado": "Programador web",
+        "rrss": {
+            "instagram": "https://www.instagram.com/xvuda/",
+            "twitter": "https://twitter.com/zVuda",
+            "linkedin": "https://www.linkedin.com/in/manuelgonzalezcao/",
+            "github": "https://github.com/xVuda"
+        }
+    }
+}
