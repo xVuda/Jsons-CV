@@ -55,8 +55,11 @@
             "periodo": "2021 - 2022",
             "detalles": "Formación dual, complementando la formación presencial con la puesta en marcha de un proyecto laboral real.",
             "habilidadesclave": {
-                "primera": {"vuejs":"Vue JS",
-                           "javascript" : "JavaScript"},
+                "primera": {"html":"HTML",
+                            "javascript" : "JavaScript",
+                            "css":"CSS",
+                            "vuejs":"Vue JS"
+                           },
                 "segunda": "Peluca",
                 "tercera": "ankara messi"
             }
