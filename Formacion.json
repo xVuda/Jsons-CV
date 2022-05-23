@@ -19,9 +19,9 @@
             "periodo": "2014 - 2015",
             "detalles": "Grado realizado en un año por el método de Formación Profesional antiguo. Visión general del mundo comercial y el proceso detrás del correcto desarrollo de sus operaciones.",
             "habilidadesclave": {
-                "primera": "Desarrollo del módelo y plan de negocio",
-                "segunda": "Diseño y aplicación de los planes de marketing",
-                "tercera": "Investigación de mercados"
+                "primera": "Desarrollar el módelo y plan de negocio",
+                "segunda": "Diseñar y aplicar los planes de marketing",
+                "tercera": "Investigar los mercados"
             }
         },
         "terceraformacion": {
@@ -31,9 +31,9 @@
             "periodo": "2015 - 2019",
             "detalles": "Grado en turismo enfocado hacia la gerencia de empresas, la optimización de destinos turísticos y el conocimiento del consumidor turista. ",
             "habilidadesclave": {
-                "primera": "Gestión de establecimientos de turismo y hostelería",
-                "segunda": "Evolución de productos turísticos",
-                "tercera": "Análisis de mercado"
+                "primera": "Gestionar establecimientos de turismo y hostelería",
+                "segunda": "Evoluciar productos turísticos",
+                "tercera": "Analizar el mercado y los consumidores"
             }
         },
         "cuartaformacion": {
@@ -41,11 +41,11 @@
             "institucion": "IEBS Bussines School",
             "ubicacion": "España (Remoto)",
             "periodo": "2020 - 2022",
-            "detalles": "Estuv meh. Hice bah. MHSi contrato era XD",
+            "detalles": "Máster online dirigido a la administración de empresas del mundo de los deportes electrónicos.",
             "habilidadesclave": {
-                "primera": "ankara HSmessi",
-                "segunda": "ankara messi",
-                "tercera": "ankara messi"
+                "primera": "Desenvolver negocios en el ámbito digital",
+                "segunda": "Manejar el talento, los partnerships y  los sponsors",
+                "tercera": "Crear e implementar un plan de marketing digital cuidando el marketing tradicional"
             }
         },
         "quintaformacion": {
@@ -53,7 +53,7 @@
             "institucion": "Concello de Santiago",
             "ubicacion": "Santiago de Compostela, Galicia",
             "periodo": "2021 - 2022",
-            "detalles": "Estuv meh. HiceMEH bah. Mi contrato era XD",
+            "detalles": "Formación dual, complementando la formación presencial con la puesta en marcha de un proyecto laboral real.",
             "habilidadesclave": {
                 "primera": "ankaraHEG messi",
                 "segunda": "ankara messi",
@@ -65,7 +65,7 @@
             "institucion": "Concello de Santiago",
             "ubicacion": "Santiago de Compostela, Galicia",
             "periodo": "2021 - 2022",
-            "detalles": "Estuv meh. Hice bXDDDDah. Mi contrato era XD",
+            "detalles": "Formación dual, complementando la formación presencial con la puesta en marcha de un proyecto laboral real.",
             "habilidadesclave": {
                 "primera": "ankara meXDDDssi",
                 "segunda": "ankara messi",
