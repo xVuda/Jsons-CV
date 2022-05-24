@@ -5,7 +5,7 @@
             "institucion": "I.E.S. Xelmirez I",
             "ubicacion": "Santiago de Compostela, Galicia",
             "periodo": "2012 - 2014",
-            "detalles": "Escogí esta rama orientándome a la rama de gestión del mundo empresarial.",
+            "detalles": "Escogí esta modalidad orientándome a la rama de gestión del mundo empresarial.",
             "habilidadesclave": {
                 "primera": "Principios básicos de la economía",
                 "segunda": "Filosofía y percepción humana",
@@ -60,8 +60,8 @@
                             "csstyle":"CSS",
                             "vuejs":"Vue JS"
                            },
-                "segunda": "Peluca",
-                "tercera": "ankara messi"
+                "segunda": "Diseño de aplicaciones web",
+                "tercera": "Programación frontend"
             }
         },
         "sextaformacion": {
